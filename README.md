@@ -2,6 +2,9 @@
 
 Forest Fire Detection with model training, frame extracting, frame labeling and Bounding Box labeled video processing with monochrome and stereo cam footages.
 
+![image](https://github.com/user-attachments/assets/7261e09d-6e5c-4475-94ad-97ec40599efd)
+
+
 **Creator:** Erkin Semiz  
 **Python Version:** Python 3.10 (Anaconda Environment)  
 **Environment File:** `python310MLfinal.yaml`  
