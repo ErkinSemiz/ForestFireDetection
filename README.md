@@ -1,5 +1,10 @@
 # Forest Fire Detection from Drone Recorded Grayscale and Coloured Video Tapes
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
+[![OpenCV 4.5.5](https://img.shields.io/badge/OpenCV-4.5.5-red.svg)](https://pypi.org/project/opencv-python/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-8.6-red.svg)](https://docs.python.org/3/library/tkinter.html)
+
 Forest Fire Detection with model training, frame extracting, frame labeling and Bounding Box labeled video processing with monochrome and stereo cam footages.
 
 ![image](https://github.com/user-attachments/assets/7261e09d-6e5c-4475-94ad-97ec40599efd)
