@@ -5,7 +5,7 @@
 [![OpenCV 4.5.5](https://img.shields.io/badge/OpenCV-4.5.5-red.svg)](https://pypi.org/project/opencv-python/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-8.6-red.svg)](https://docs.python.org/3/library/tkinter.html)
 
-Forest Fire Detection with model training, frame extracting, frame labeling and Bounding Box labeled video processing with monochrome and stereo cam footages.
+Forest Fire Detection with model training, frame extracting, frame labeling and Bounding Box labeled video processing with YOLOV8 in monochrome and stereo cam footages.
 
 ![image](https://github.com/user-attachments/assets/7261e09d-6e5c-4475-94ad-97ec40599efd)
 
